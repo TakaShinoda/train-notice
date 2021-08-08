@@ -1,5 +1,3 @@
-# train-notice
-
 ## Project setup
 ```
 npm install
